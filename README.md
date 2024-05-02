@@ -17,7 +17,7 @@
 
 <div align="center"> 
   <a href="mailto:zikaiyan@outlook.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+    <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/zikaiyan/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
@@ -30,7 +30,6 @@
 ---
 
 ### 🛠️ Languages and Tools 🛠️
-<br>
 <div align="center">
     <img src="https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=%233776AB&labelColor=black" />
     <img src="https://img.shields.io/badge/pandas-%23150458?style=for-the-badge&logo=pandas&logoColor=white&labelColor=black" />
@@ -61,16 +60,13 @@
     <img src="https://img.shields.io/badge/Docker-%232496ED?style=for-the-badge&logo=docker&logoColor=%232496ED&labelColor=black" />
     <img src="https://img.shields.io/badge/LaTex-%23008080?style=for-the-badge&logo=latex&logoColor=%23008080&labelColor=black" />
     <img src="https://img.shields.io/badge/Gurobi-%23EE3524?style=for-the-badge&logo=gurobi&logoColor=%23EE3524&labelColor=black" />
-</div>
 <br>
 
 ---
 
 ### 🐍 My Contributions 🐍
 <div align="center">
-  <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/zikaiyan/zikaiyan/output/github-contribution-grid-snake.svg" />
-  <br/>
 </div>
 
 ---
