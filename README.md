@@ -6,6 +6,7 @@
 </h1>
 
 ### 👨‍💻 About Me 👨‍💻
+**`Data Scientist / Machine Learning Engineer / Product Analyst`**
 - 🎓 Currently pursuing Master of Business Analytics (Data Science) from MIT Sloan. Graduated from Dalian University of Technology in 2023 with a B.Sc. in Logistics Management. 
 - ⚡ Excited about data and technology-driven companies.
 - 💡 Experienced in Generative AI, Business Analytics, Data Science, Machine Learning, and Operations Research.
