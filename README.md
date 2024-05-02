@@ -49,4 +49,10 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=zikaiyan)](https://github.com/zikaiyan/github-profile-trophy)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/zikaiyan/zikaiyan/blob/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/zikaiyan/zikaiyan/blob/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
+
 ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=zikaiyan.zikaiyan)
