@@ -54,8 +54,8 @@
     <img src="https://img.shields.io/badge/GCP-%234285F4?style=for-the-badge&logo=googlecloud&logoColor=%234285F4&labelColor=black" />
     <img src="https://img.shields.io/badge/BigQuery-%23669DF6?style=for-the-badge&logo=googlebigquery&logoColor=%23669DF6&labelColor=black" />
     <img src="https://img.shields.io/badge/Azure-%230078D4?style=for-the-badge&logo=microsoftazure&logoColor=%230078D4&labelColor=black" />
-    <img src="https://img.shields.io/badge/Apache%20Spark-%23E25A1C?style=for-the-badge&logo=apachespark&logoColor=%23E25A1C&labelColor=black" />
-    <img src="https://img.shields.io/badge/Apache%20Hive-%23FDEE21?style=for-the-badge&logo=apachehive&logoColor=%23FDEE21&labelColor=black" />
+    <img src="https://img.shields.io/badge/Spark-%23E25A1C?style=for-the-badge&logo=apachespark&logoColor=%23E25A1C&labelColor=black" />
+    <img src="https://img.shields.io/badge/Hive-%23FDEE21?style=for-the-badge&logo=apachehive&logoColor=%23FDEE21&labelColor=black" />
     <img src="https://img.shields.io/badge/Tableau-%23E97627?style=for-the-badge&logo=tableau&logoColor=%23E97627&labelColor=black" />
     <img src="https://img.shields.io/badge/Power%20BI-%23F2C811?style=for-the-badge&logo=powerbi&logoColor=%23F2C811&labelColor=black" />
     <img src="https://img.shields.io/badge/Docker-%232496ED?style=for-the-badge&logo=docker&logoColor=%232496ED&labelColor=black" />
