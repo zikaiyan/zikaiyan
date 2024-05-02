@@ -41,10 +41,11 @@
 ---
 
 ### 📈 My GitHub Stats:
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=zikaiyan&theme=dark&background=000000)](https://git.io/streak-stats)
-
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=zikaiyan)](https://git.io/streak-stats)
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=zikaiyan&count_private=true&show_icons=true&include_all_commits=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zikaiyan&hide=TeX,jupyter%20notebook&layout=compact)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=zikaiyan)](https://github.com/zikaiyan/github-profile-trophy)
 
 ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=zikaiyan.zikaiyan)
