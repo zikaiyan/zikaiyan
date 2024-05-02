@@ -7,11 +7,12 @@
 
 ### 👨‍💻 About Me 👨‍💻
 **`Data Scientist / Machine Learning Engineer / Product Analyst`**
-- 🎓 Currently pursuing Master of Business Analytics (Data Science) from MIT Sloan. Graduated from Dalian University of Technology in 2023 with a B.Sc. in Logistics Management. 
-- ⚡ Excited about data and technology-driven companies.
-- 💡 Experienced in Generative AI, Business Analytics, Data Science, Machine Learning, and Operations Research.
-- 🔎 Exploring Artificial Intelligence.
-- 📜 Internships and Projects focused on Machine Learning (Regression, Classification, Clustering), Deep Learning (Neural Networks), Text Analysis (NLP), and GenAI (Large Language Models - Gemini) on structured as well as unstructured data.
+- 🏛️ Currently pursuing Master of Business Analytics (Data Science) at MIT.
+- 🎓 Graduated from Dalian University of Technology in 2023 with a B.Sc. in Logistics Management.
+- 🙋‍♂️ An aspiring data scientist passionate about creating business value through data-driven approaches.
+- 📚 Professional experience in Product Analysis, A/B testing, Causal Inference, Online Experiment Design.
+- ⚒️ Deep understanding of Machine Learning, Optimization, Computer Vision, Natural Language Processing.
+- 💻 Good command of Python, R, SQL, Julia, Hive, Tableau, LaTeX.
 
 📮 You can reach me at zikaiyan@mit.edu or zikaiyan@outlook.com
 
