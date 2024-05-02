@@ -12,15 +12,13 @@
 - 🔎 Exploring Artificial Intelligence.
 - 📜 Internships and Projects focused on Machine Learning (Regression, Classification, Clustering), Deep Learning (Neural Networks), Text Analysis (NLP), and GenAI (Large Language Models - Gemini) on structured as well as unstructured data.
 
-📮 You can reach me at zikaiyan@mit.edu and connect with me on <a href="https://www.linkedin.com/in/zikaiyan/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" width="80px" alt="LinkedIn Badge"/>
-<br>
+📮 You can reach me at zikaiyan@mit.edu or zikaiyan@outlook.com
 
 <div align="center"> 
   <a href="mailto:zikaiyan@outlook.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://linkedin.com/in/pedro-sales-muniz" target="_blank">
+  <a href="https://www.linkedin.com/in/zikaiyan/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="https://zikaiyan.github.io" target="_blank">
@@ -68,3 +66,9 @@
   <br/>
   <img height=160 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zikaiyan&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
+
+---
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=I'm+always+down+to+collab+💪;+Shoot+me+a+messages+on+LinkedIn!"/>
+</h1>
