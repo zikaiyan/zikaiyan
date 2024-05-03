@@ -14,7 +14,7 @@
 - ⚒️ Deep understanding of Machine Learning, Optimization, Computer Vision, Natural Language Processing.
 - 💻 Good command of Python, R, SQL, Julia, Hive, Tableau, LaTeX.
 
-📮 You can reach me at zikaiyan@mit.edu.
+📮 You can reach me at zikaiyan@outlook.edu.
 
 <div align="center"> 
   <a href="mailto:zikaiyan@outlook.com">
