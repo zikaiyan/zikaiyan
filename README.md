@@ -7,7 +7,7 @@
 
 ### 👨‍💻 About Me 👨‍💻
 **`Applied Scientist / Machine Learning Engineer / Data Scientist`**
-- 💼 Machine Learning Scientist @ Wayfair LLC.
+- 💼 Machine Learning Scientist @ Wayfair.
 - 🏛️ Master of Business Analytics (Data Science) 24' @ MIT.
 - 🙋‍♂️ An aspiring applied scientist passionate about creating business value through data-driven approaches.
 - 📚 Professional experience in Causal Inference, Egregious Pricing.
