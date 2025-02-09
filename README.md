@@ -10,8 +10,8 @@
 - 💼 Machine Learning Scientist @ Wayfair.
 - 🏛️ Master of Business Analytics (Data Science) 24' @ MIT.
 - 🙋‍♂️ An aspiring applied scientist passionate about creating business value through data-driven approaches.
-- 📚 Professional experience in Causal Inference, Egregious Pricing.
-- ⚒️ Deep understanding of Machine Learning, Optimization, Computer Vision, Natural Language Processing.
+- 📚 Professional experience in Causal Inference, Price Prediction, and Egregious Pricing.
+- ⚒️ Deep understanding of Machine Learning, Optimization, and Vision-Language Models.
 
 📮 You can reach me at zikaiyan@outlook.com.
 
