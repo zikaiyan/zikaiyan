@@ -13,7 +13,7 @@
 - 📚 Professional experience in Causal Inference, Price Prediction, and Egregious Pricing.
 - ⚒️ Deep understanding of Machine Learning, Optimization, and Vision-Language Models.
 
-📮 You can reach me at zikaiyan[at]outlook[dot]com.
+📮 You can reach me at **zikaiyan[at]outlook[dot]com**.
 
 <div align="center"> 
   <a href="mailto:zikaiyan@outlook.com">
