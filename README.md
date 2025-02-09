@@ -6,13 +6,12 @@
 </h1>
 
 ### 👨‍💻 About Me 👨‍💻
-**`Data Scientist / Machine Learning Engineer / Product Analyst`**
-- 🏛️ Currently pursuing Master of Business Analytics (Data Science) at MIT.
-- 🎓 Graduated from Dalian University of Technology in 2023 with a B.Sc. in Logistics Management.
-- 🙋‍♂️ An aspiring data scientist passionate about creating business value through data-driven approaches.
-- 📚 Professional experience in Product Analysis, A/B testing, Causal Inference, Online Experiment Design.
+**`Applied Scientist / Machine Learning Engineer / Data Scientist`**
+- 💼 Machine Learning Scientist @ Wayfair LLC.
+- 🏛️ Master of Business Analytics (Data Science) 24' @ MIT.
+- 🙋‍♂️ An aspiring applied scientist passionate about creating business value through data-driven approaches.
+- 📚 Professional experience in Causal Inference, Egregious Pricing.
 - ⚒️ Deep understanding of Machine Learning, Optimization, Computer Vision, Natural Language Processing.
-- 💻 Good command of Python, R, SQL, Julia, Hive, Tableau, LaTeX.
 
 📮 You can reach me at zikaiyan@outlook.com.
 
