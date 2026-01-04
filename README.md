@@ -10,20 +10,19 @@
 - 💼 Machine Learning Scientist @ Wayfair.
 - 🏛️ Master of Business Analytics (Data Science) 24' @ MIT.
 - 🙋‍♂️ An aspiring applied scientist passionate about creating business value through data-driven approaches.
-- 📚 Professional experience in Causal Inference, Price Prediction, and Egregious Pricing.
-- ⚒️ Deep understanding of Machine Learning, Optimization, and Vision-Language Models.
+- ⚒️ Deep understanding of GenAI, Machine Learning, Optimization.
 
-📮 You can reach me at **zikaiyan[at]outlook[dot]com**.
+📮 You can reach me at **zekiyanzikai[at]gmail[dot]com**.
 
 <div align="center"> 
-  <a href="mailto:zikaiyan@outlook.com">
-    <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" />
+  <a href="mailto:zekiyanzikai@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/zikaiyan/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://zikaiyan.github.io" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  <a href="https://zikaiyan.notion.site" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
 
